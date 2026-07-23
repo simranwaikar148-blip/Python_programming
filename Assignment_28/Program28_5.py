@@ -16,7 +16,7 @@ def search_word(filename, word):
 def main():
     filename = input("Enter file name: ")
     word = input("Enter word to search: ")
-    search_word(filename, word)
+    search_word(filename, word )
 
 
 if __name__ == "__main__":
